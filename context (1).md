@@ -90,3 +90,5 @@ Changes to the code will be deployed after being committed and pushed to the rep
 The goal is to produce a functional, simple, and reliable website that can be successfully deployed and accessed via GitHub Pages.
 
 Favor clarity, stability, and completeness over complexity.
+gemini
+npm -v
